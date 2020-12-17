@@ -1,9 +1,17 @@
-Bootcamp Data Science Aplicada da Alura
+# Bootcamp Data Science Aplicada da Alura
 
 Esse repositório será usado durante todo Bootcamp de Data Science Aplicada.
+
+## Primeiro Módulo
 
 O primeiro módulo utilizamos o banco de dados do DataSus com os gastos de procedimentos hospitalares do SUS separado por UF e com dados mensais de 1992 até a presente data.
 
 O arquivo Gastos_Procedimentos_DATASUS.ipynb é o arquivo criado e utilizado pelo Google Colaboratory para fazer a análise dos dados. O arquivo dados_datasus.csv tem os dados de gastos mensais separados por UF desde 1992, porém após a limpeza dos dados, só foi possivel trabalhar com dados desde 2008. O arquivo estimativa_dou_2020.csv é uma tabela com os dados populacionais de Julho de 2020.
 
-O final do primeiro módulo foi marcado pela realização do projeto de análise de dados do dataset de casos e óbitos pelo novo coronavírus no Brasil. Esse estudo foi feito com dados dos registros até a data de 12/11 pela Brasil.io
+## Segundo Módulo
+
+O segundo módulo continua o estudo dos mesmos dados de gastos do SUS, porém usando agora além do próprio Pandas, foram usados o Seaborn, Matplotlib e Numpy também. Os dados dessa base também foram tratados para uma análise usando timeseries. 
+
+## Terceiro Módulo
+
+Para esse estudo foi utilizado o PENSE (Pesquisa Nacional da Saúde do Escolar), que é foi um estudo realizado pelo IBGE de escolares frequentando o 9o ano do ensino fundamental. A proposta desse módulo foi de trabalhar alguns conceitos de estatistica como 'Regra de Sturges', 'Intervalo de Confiança', 'Intervalo de confiança com teste z', 'Tipos de variáveis', 'Frequência de dados" e outros.
