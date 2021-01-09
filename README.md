@@ -15,3 +15,7 @@ O segundo módulo continua o estudo dos mesmos dados de gastos do SUS, porém us
 ## Terceiro Módulo
 
 Para esse estudo foi utilizado o PENSE (Pesquisa Nacional da Saúde do Escolar), que é foi um estudo realizado pelo IBGE de escolares frequentando o 9o ano do ensino fundamental. A proposta desse módulo foi de trabalhar alguns conceitos de estatistica como 'Regra de Sturges', 'Intervalo de Confiança', 'Intervalo de confiança com teste z', 'Tipos de variáveis', 'Frequência de dados" e outros.
+
+## Quarto Módulo
+
+Neste módulo o foco do estudo foi a criação, análise e previsões usando Séries Temporais. Foi utilizado também do DATASUS a base de dados de casos de Tuberculos diagnosticados no Brasil desde 2001. As bibliotecas utilizadas algumas já utilizadas como Pandas, seaborn, matplotlib e algumas novas, como: ARIMA, AUTOARIMA E Prophet.
