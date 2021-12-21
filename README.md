@@ -19,3 +19,7 @@ Para esse estudo foi utilizado o PENSE (Pesquisa Nacional da Saúde do Escolar),
 ## Quarto Módulo
 
 Neste módulo o foco do estudo foi a criação, análise e previsões usando Séries Temporais. Foi utilizado também do DATASUS a base de dados de casos de Tuberculos diagnosticados no Brasil desde 2001. As bibliotecas utilizadas algumas já utilizadas como Pandas, seaborn, matplotlib e algumas novas, como: ARIMA, AUTOARIMA E Prophet.
+
+## Quinto e Sexto Módulo
+
+Os dois módulos foram abordando o mesmo dataset que se tratava de dados clínicos de pacientes de Covid-19 que mostravam se o paciente havia sido internado na UTI em algum momento de seu tratamento. A proposta dos dois módulos foi mostrar os passos de uma análise desde a fase exploratória até as métricas do modelo. 
